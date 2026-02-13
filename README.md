@@ -17,7 +17,7 @@ markdown
 https://github.com/danilinavasilisa2016-boop/my--arduino-blink/blob/main/ArduinoBlinkProject.jpg
 
 ## История изменений
-Полная история доступна в [истории коммитов](https://github.com/...).
+Полная история доступна в https://github.com/danilinavasilisa2016-boop/my-arduino-blink/commits
 ```
-Добавьте и закоммитьте оба файла.
+
 

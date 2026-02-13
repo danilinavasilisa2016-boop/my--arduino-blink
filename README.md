@@ -14,7 +14,7 @@ markdown
 
 
 ## Схема подключения
-[Описание или ссылка на изображение]
+(https://www.tinkercad.com/things/0Ay8cez7cOt-amazing-stantia-vihelmo/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard)
 
 
 ## История изменений

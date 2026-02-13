@@ -14,7 +14,6 @@ markdown
 
 
 ## Схема подключения
-![Uploading image.png…]()
 
 
 
